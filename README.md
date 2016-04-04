@@ -1,49 +1,27 @@
-# octimine PHP Test 2016
+# Laravel PHP Framework
 
-The purpose of this test is to evaluate your proficiency in PHP.
+[![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
+[![Total Downloads](https://poser.pugx.org/laravel/framework/d/total.svg)](https://packagist.org/packages/laravel/framework)
+[![Latest Stable Version](https://poser.pugx.org/laravel/framework/v/stable.svg)](https://packagist.org/packages/laravel/framework)
+[![Latest Unstable Version](https://poser.pugx.org/laravel/framework/v/unstable.svg)](https://packagist.org/packages/laravel/framework)
+[![License](https://poser.pugx.org/laravel/framework/license.svg)](https://packagist.org/packages/laravel/framework)
 
-###Assessment
+Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable, creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as authentication, routing, sessions, queueing, and caching.
 
-This is what we are trying to assess:
+Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-1. Your familiarity with PHP development tools as follows: 
+## Official Documentation
 
-* Composer
-* Laravel
-* MVC pattern
-* OOP
+Documentation for the framework can be found on the [Laravel website](http://laravel.com/docs).
 
-2. Your code organization and cleanliness
+## Contributing
 
-### Development
+Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
 
-We request you to build a very simple CRUD operation, comprising of:
+## Security Vulnerabilities
 
-1. Add a new record;
-2. A list of records, which can be edited and removed (use two different buttons in the end of each row);
-3. Edit a record, with notification message after the success of the operation;
-4. Remove a record, with notification message after the success of the operation.
+If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
 
-### Working and sending your work to us
+## License
 
-To start your work fork this repository on your own machine. 
-
-When your job is finished send us a pull request so we can evaluate what you've built! 
-
-This is also part of the test. =)
-
-### Additional details
-
-1. In order to make the final result look better you're allowed (if not encouraged) to use a frontend framework such as Bootstrap or Foundation;
-
-2. For the database structure create what you think best suits the kind of application you're building;
-
-### Deadline
-
-Please do it in no more than a day.
-
-### Questions?
-
-If you have any question drop a line to Fabio Vedovelli <vedovelli@octimine.com>
-
-## Good luck!
+The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
